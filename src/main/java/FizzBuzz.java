@@ -8,6 +8,10 @@ public class FizzBuzz {
         {
             return "Buzz";
         }
+        if (7 == num)
+        {
+            return "";
+        }
 
         return String.valueOf(num);
     }
