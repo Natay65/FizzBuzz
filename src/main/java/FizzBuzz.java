@@ -10,7 +10,7 @@ public class FizzBuzz {
         }
         if (7 == num)
         {
-            return "Seve";
+            return "Seven";
         }
 
         return String.valueOf(num);
