@@ -26,6 +26,6 @@ public class TestFizzBuzz {
 
     @Test
     public void testWithSeven() {
-        Assert.assertEquals("Sev", fizzBuzz.check(7));
+        Assert.assertEquals("Seven", fizzBuzz.check(7));
     }
 }
